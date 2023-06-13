@@ -5,13 +5,19 @@ EstruturaSequencial
 
 
 1- Faça um Programa que mostre a mensagem "Alo mundo" na tela.
+
 2- Faça um Programa que peça um número e então mostre a mensagem O número informado foi [número].
 
 3- Faça um Programa que peça dois números e imprima a soma.
+
 4- Faça um Programa que peça as 4 notas bimestrais e mostre a média.
+
 5- Faça um Programa que converta metros para centímetros.
+
 6- Faça um Programa que peça o raio de um círculo, calcule e mostre sua área.
+
 7- Faça um Programa que calcule a área de um quadrado, em seguida mostre o dobro desta área para o usuário.
+
 8- Faça um Programa que pergunte quanto você ganha por hora e o número de horas trabalhadas no mês. Calcule e mostre o total do seu salário no referido mês.
 
 9- Faça um Programa que peça a temperatura em graus Fahrenheit, transforme e mostre a temperatura em graus Celsius.
@@ -42,6 +48,7 @@ calcule os descontos e o salário líquido, conforme a tabela abaixo:
 - Sindicato ( 5%) : R$
 = Salário Liquido : R$
 Obs.: Salário Bruto - Descontos = Salário Líquido.
+
 16- Faça um programa para uma loja de tintas. O programa deverá pedir o tamanho em metros quadrados da área a ser pintada. Considere que a cobertura da tinta é de 1 litro para cada 3 metros quadrados e que a tinta é vendida em latas de 18 litros, que custam R$ 80,00. Informe ao usuário a quantidades de latas de tinta a serem compradas e o preço total.
 
 17- Faça um Programa para uma loja de tintas. O programa deverá pedir o tamanho em metros quadrados da área a ser pintada. Considere que a cobertura da tinta é de 1 litro para cada 6 metros quadrados e que a tinta é vendida em latas de 18 litros, que custam R$ 80,00 ou em galões de 3,6 litros, que custam R$ 25,00.
